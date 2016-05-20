@@ -1,2 +1,2 @@
 # ndtan.github.io
-ndtan's site
+Nguyen Duy Tan
